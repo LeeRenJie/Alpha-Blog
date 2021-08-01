@@ -1,7 +1,7 @@
 # Alpha-Blog
 Built with Ruby-on-rails.
 
-Demo here: alpha-blog02.herokuapp.com
+Demo here: https://alpha-blog02.herokuapp.com
 
 Tech Used:
 1) Ruby On Rails MVC for frontend and backend
