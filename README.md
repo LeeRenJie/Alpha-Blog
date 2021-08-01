@@ -1,12 +1,15 @@
 # Alpha-Blog
 Built with Ruby-on-rails.
 
+Demo here: alpha-blog02.herokuapp.com
+
 Tech Used:
 1) Ruby On Rails MVC for frontend and backend
 2) SCSS for custom styling
 3) Bootstrap 5 for the overall styling
 4) Postgres SQL
 5) Git & GitHub for Source Control
+6) Hosted with Heroku
 
 Features:
 1) Users can sign up/log in.
